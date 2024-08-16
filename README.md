@@ -1,5 +1,5 @@
 # CODTECH-Task1
-Name : Vasanth Anbu Company : CODTECH IT SOLUTIONS ID : CT08DS5600 Domain : PYTHON PROGRAMING Duration : July 23rd, 2024 TO August 23rd, 2024 Mentor : Muzammil Ahmed
+Name : Nagaraj Company : CODTECH IT SOLUTIONS ID : CT08DS5330 Domain : PYTHON PROGRAMING Duration : July 23rd, 2024 TO August 23rd, 2024 Mentor : Muzammil Ahmed
 
 Over View Of The Project
 
